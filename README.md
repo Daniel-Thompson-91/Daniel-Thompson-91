@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Daniel Thompson (@Daniel-Thompson-91)
+- 👀 I’m interested in becoming a web developer. I would like to pursue either front-end, back-end, or full stack. I would also be interested in software development, but that will require some more learning/study on my part.
+- 🌱 I’m currently going through Codecademy's Full Stack Software Engineer career path. On this path, I will be learning JavaScript, React, Node, SQL, Git/GitHub, and I will be refreshing my knowledge on HTML and CSS.
