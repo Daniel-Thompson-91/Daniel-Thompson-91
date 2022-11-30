@@ -12,9 +12,5 @@ As I said above, I have worked with HTML and CSS off and on since 9th grade. I h
 - ### Becoming a web developer
 I would like to pursue either front-end, back-end, or full stack. I would also be interested in software development, but that will require some more learning/study on my part. I believe I am at a level where I could be an asset as a junior Developer, and I feel that I could learn more effectively as an active part of a web dev team.
 
-- ### Moving to the Sacramento area
-I am making a pretty big move from the East Texas area to the Sacramento area for personal reasons. I'm not sure how long I'll be there, but the goal is to move around the end of October this year. I will need a good, steady job in oder to afford California living, which is why I am actively studying to improve my tech stack and land a job as a developer.
-
-
 
 I am open to do freelance work. If you have a personal project that you need/want help with, I would be more than happy to work along side you. Feel free to reach out on my LinkedIn profile (@danielthompson91).
