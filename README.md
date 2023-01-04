@@ -7,10 +7,10 @@ I have been coding off and on for most of my life. I took a computer class in 9t
 
 ## What are my current goals?
 - ### Strengthening my knowledge of HTML, CSS, and JavaScript
-As I said above, I have worked with HTML and CSS off and on since 9th grade. I have only fairly recently started learning JavaScript, but I have been catching on pretty quickly. As a part of this goal, I’m currently going through Codecademy's Full Stack Software Engineer career path. On this path, I will be learning JavaScript, React, Node, SQL, Git/GitHub, and I will be refreshing my knowledge on HTML and CSS. Upon completeing each language along this path, I will recieve a certificate of completion for the language completed.
+As I said above, I have worked with HTML and CSS off and on since 9th grade. I started focusing on javaScript in July 2022. As a part of this goal, I recently completed Codecademy's Front End Engineer Career Path. On this path, I learned JavaScript, React, Node, Git/GitHub, and I strengthened my knowledge of HTML and CSS.
 
 - ### Becoming a web developer
-I would like to pursue either front-end, back-end, or full stack. I would also be interested in software development, but that will require some more learning/study on my part. I believe I am at a level where I could be an asset as a junior Developer, and I feel that I could learn more effectively as an active part of a web dev team.
+I would like to pursue a career in front end development/engineering or software engineering. I believe I am at a level where I could be an asset as a junior Developer, and I feel that I could learn more effectively as an active part of a web dev team.
 
 
 I am open to do freelance work. If you have a personal project that you need/want help with, I would be more than happy to work along side you. Feel free to reach out on my LinkedIn profile (@danielthompson91).
